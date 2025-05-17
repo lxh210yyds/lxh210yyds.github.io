@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>爱搞发明的大发明家的博客</title><link>https://lxh210yyds.github.io</link><description>我是lxh一个爱折腾的中学生，现在学会一点点MarkDown语法了，有图片和标题了：）））））））</description><copyright>爱搞发明的大发明家的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/147957763?v=4&amp;size=64</url><title>avatar</title><link>https://lxh210yyds.github.io</link></image><lastBuildDate>Sat, 17 May 2025 06:05:31 +0000</lastBuildDate><managingEditor>爱搞发明的大发明家的博客</managingEditor><ttl>60</ttl><webMaster>爱搞发明的大发明家的博客</webMaster><item><title>临时邮箱上线了!!!</title><link>https://lxh210yyds.github.io/post/lin-shi-you-xiang-shang-xian-le-%21%21%21.html</link><description># 链接：https://mail.lhpgmc.cn/
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>爱搞发明的大发明家的博客</title><link>https://lxh210yyds.github.io</link><description>我是lxh一个爱折腾的中学生，现在学会一点点MarkDown语法了，有图片和标题了：）））））））</description><copyright>爱搞发明的大发明家的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/147957763?v=4&amp;size=64</url><title>avatar</title><link>https://lxh210yyds.github.io</link></image><lastBuildDate>Sat, 17 May 2025 08:42:43 +0000</lastBuildDate><managingEditor>爱搞发明的大发明家的博客</managingEditor><ttl>60</ttl><webMaster>爱搞发明的大发明家的博客</webMaster><item><title>临时邮箱上线了!!!</title><link>https://lxh210yyds.github.io/post/lin-shi-you-xiang-shang-xian-le-%21%21%21.html</link><description># 链接：https://mail.lhpgmc.cn/
 
 ## 接收页面
 ![Image](https://github.com/user-attachments/assets/7fbb52fb-97c1-4871-8e9e-8a08914de786)
@@ -19,7 +19,7 @@ cloudflare真的是赛博菩萨从前端到后端到数据库全部免费。</de
 # 实现方法：
 ## 1，用python写功能
 ![Image](https://github.com/user-attachments/assets/2709a6ec-e206-4011-afd8-b1d26c76d621)
-## 2，用ai转译成js（可惜失败了):((   ai变成还要练啊
+## 2，用ai转译成js（可惜失败了):((   ai编程还要练啊
 ## 3，最后用pyodide在html中运行python除了速度慢没有缺点
 ![Image](https://github.com/user-attachments/assets/eb4c9633-c786-4aca-90ca-58c30829ca0c)
 
