@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>爱搞发明的大发明家的博客</title><link>https://lxh210yyds.github.io</link><description>我是lxh一个爱折腾的中学生，现在学会一点点MarkDown语法了，有图片和标题了：）））））））</description><copyright>爱搞发明的大发明家的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/147957763?v=4&amp;size=64</url><title>avatar</title><link>https://lxh210yyds.github.io</link></image><lastBuildDate>Fri, 16 May 2025 23:35:24 +0000</lastBuildDate><managingEditor>爱搞发明的大发明家的博客</managingEditor><ttl>60</ttl><webMaster>爱搞发明的大发明家的博客</webMaster><item><title>一元方程解算器2.0!!!</title><link>https://lxh210yyds.github.io/post/yi-yuan-fang-cheng-jie-suan-qi-2.0%21%21%21.html</link><description># 链接：
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>爱搞发明的大发明家的博客</title><link>https://lxh210yyds.github.io</link><description>我是lxh一个爱折腾的中学生，现在学会一点点MarkDown语法了，有图片和标题了：）））））））</description><copyright>爱搞发明的大发明家的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/147957763?v=4&amp;size=64</url><title>avatar</title><link>https://lxh210yyds.github.io</link></image><lastBuildDate>Sat, 17 May 2025 06:02:20 +0000</lastBuildDate><managingEditor>爱搞发明的大发明家的博客</managingEditor><ttl>60</ttl><webMaster>爱搞发明的大发明家的博客</webMaster><item><title>临时邮箱上线了！！！</title><link>https://lxh210yyds.github.io/post/lin-shi-you-xiang-shang-xian-le-%EF%BC%81%EF%BC%81%EF%BC%81.html</link><description># 链接：https://mail.lhpgmc.cn/
+
+## 接收页面
+![Image](https://github.com/user-attachments/assets/7fbb52fb-97c1-4871-8e9e-8a08914de786)
+## 发送页面（免费5次）
+![Image](https://github.com/user-attachments/assets/16be3b8a-93e2-4034-9cd2-a9da30eea526)
+# 原理
+1，用cloudflare全套完成前端和后端（真是互联网大善人）
+2，用resend完成邮件发送
+# 想法
+之前看到临时邮箱一直想做一个自己的：（
+现在成了：）
+这一整个都是开源项目，感谢各路大佬开源
+cloudflare真的是赛博菩萨从前端到后端到数据库全部免费。</description><guid isPermaLink="true">https://lxh210yyds.github.io/post/lin-shi-you-xiang-shang-xian-le-%EF%BC%81%EF%BC%81%EF%BC%81.html</guid><pubDate>Sat, 17 May 2025 06:01:48 +0000</pubDate></item><item><title>一元方程解算器2.0!!!</title><link>https://lxh210yyds.github.io/post/yi-yuan-fang-cheng-jie-suan-qi-2.0%21%21%21.html</link><description># 链接：
 ## https://lhpgmc.cn/equation_solver.html
 # 界面：
 ![Image](https://github.com/user-attachments/assets/2b41b124-b048-4cea-9d83-f543e3fa07b7)
