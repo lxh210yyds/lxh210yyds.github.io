@@ -1,5 +1,87 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>爱搞发明的大发明家的博客</title><link>https://lxh210yyds.github.io</link><description>我是lxh一个爱折腾的中学生，现在学会一点点MarkDown语法了，有图片和标题了：）））））））</description><copyright>爱搞发明的大发明家的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/147957763?v=4&amp;size=64</url><title>avatar</title><link>https://lxh210yyds.github.io</link></image><lastBuildDate>Sat, 24 May 2025 05:49:04 +0000</lastBuildDate><managingEditor>爱搞发明的大发明家的博客</managingEditor><ttl>60</ttl><webMaster>爱搞发明的大发明家的博客</webMaster><item><title>Markdown语法练习器!!!</title><link>https://lxh210yyds.github.io/post/Markdown-yu-fa-lian-xi-qi-%21%21%21.html</link><description>## 🔗链接：https://markdown-practice.lhpgmc.cn/
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>爱搞发明的大发明家的博客</title><link>https://lxh210yyds.github.io</link><description>我是lxh一个爱折腾的中学生，现在学会一点点MarkDown语法了，有图片和标题了：）））））））</description><copyright>爱搞发明的大发明家的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/147957763?v=4&amp;size=64</url><title>avatar</title><link>https://lxh210yyds.github.io</link></image><lastBuildDate>Sat, 31 May 2025 02:54:29 +0000</lastBuildDate><managingEditor>爱搞发明的大发明家的博客</managingEditor><ttl>60</ttl><webMaster>爱搞发明的大发明家的博客</webMaster><item><title>🚀 中考冲刺启动！项目全体冻结 ❄️</title><link>https://lxh210yyds.github.io/post/%F0%9F%9A%80%20-zhong-kao-chong-ci-qi-dong-%EF%BC%81-xiang-mu-quan-ti-dong-jie-%20%E2%9D%84%EF%B8%8F.html</link><description># 朋友们！这周博客鸽了 🐦  
+**项目进度：0️⃣**  
+不是偷懒！人生关键节点到——**中考志愿提交完毕！！！**  
+填志愿比调 API 还烧脑 😂  
+反复横跳 N 次，最终手抖提交！  
+现在心里就一个字：**冲！** 🏃‍♂️💨
+
+---
+
+## 📍 当前状态报告
+
+- **数学**  
+  (╯‵□′)╯︵┻━┻  
+  函数在谋杀我的脑细胞 💀
+
+- **语文**  
+  文言文是外星代码吧？！ 📜➡️🔣  
+  翻译器救我
+
+- **科学**  
+  ✨✨✨  
+  物理电路图画得比 UI 还顺 / 化学方程式直接开挂 💥
+
+- **社会**  
+  背就完事了 🗂️  
+  知识点？拿来吧你！
+
+- **英语**  
+  中等の挣扎 🐟  
+  阅读理解像在捞鱼...
+
+---
+
+## ⚠️ 项目停更通知
+
+那个 Markdown 语法练习器...
+
+```python
+if 中考时间 &gt; 项目时间:
+    项目.status = '暂停维护'  # 代码冷冻 ❄️
+    开源计划 = 暑假          # 延迟满足 ✅
+else:
+    print('不可能！中考最大！')
+```
+
+---
+
+## 结论
+
+项目无限期停更（别催了，在学了在学了 😫）  
+开源？暑假见！（我发誓！🙏）
+
+---
+
+## 📢 全体注意
+
+- **博客停更 ⚠️**  
+  除非科学又考满分来嘚瑟 💯
+
+- **社交平台全员静默 📵**  
+  除转发锦鲤 🐟
+
+- **当前任务**  
+  ```python
+  while True:
+      刷题()
+  ```
+
+---
+
+## 给战友的急救包
+
+- 数学差的痛我懂！一起抱头痛哭 😭  
+- 科学大佬？考完求带飞！ ✈️  
+- 社会人：借我笔记抄抄 📒🙏
+
+---
+
+## Final
+
+撑住！暑假我们 Markdown 练习器见真章！  
+（现在先让我和数学同归于尽... 💥）
+。</description><guid isPermaLink="true">https://lxh210yyds.github.io/post/%F0%9F%9A%80%20-zhong-kao-chong-ci-qi-dong-%EF%BC%81-xiang-mu-quan-ti-dong-jie-%20%E2%9D%84%EF%B8%8F.html</guid><pubDate>Sat, 31 May 2025 02:53:58 +0000</pubDate></item><item><title>Markdown语法练习器!!!</title><link>https://lxh210yyds.github.io/post/Markdown-yu-fa-lian-xi-qi-%21%21%21.html</link><description>## 🔗链接：https://markdown-practice.lhpgmc.cn/
 ## 📝 项目介绍
 
 Markdown语法练习器是一个交互式Web应用，帮助用户学习和掌握Markdown语法。</description><guid isPermaLink="true">https://lxh210yyds.github.io/post/Markdown-yu-fa-lian-xi-qi-%21%21%21.html</guid><pubDate>Sat, 24 May 2025 05:42:30 +0000</pubDate></item><item><title>manus使用感受</title><link>https://lxh210yyds.github.io/post/manus-shi-yong-gan-shou.html</link><description>几天前不是manus发布注册了吗
