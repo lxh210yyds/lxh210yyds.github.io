@@ -7,5 +7,6 @@
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "startSite":"04/11/2025",
     "i18n":"CN",
-    "UTC":8
+    "UTC":8,
+    "homeUrl":"http://blog.lhpgmc.cn",
 }
