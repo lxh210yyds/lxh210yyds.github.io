@@ -6,4 +6,4 @@
 ![Image](https://github.com/user-attachments/assets/65b95d6c-cf4b-469c-abff-9cd14eb418c7)
 
 ## 链接：
-https://wxhd.lhpgmc.cn/
+https://wxhd.lxh210yyds.cn/
